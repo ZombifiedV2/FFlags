@@ -1,0 +1,5 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "3"
+}

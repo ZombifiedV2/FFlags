@@ -1,0 +1,7 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+    "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
+}

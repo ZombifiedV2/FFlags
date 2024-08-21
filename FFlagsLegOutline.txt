@@ -1,0 +1,4 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+  "FFlagDebugAvatarChatVisualization": "True"
+}

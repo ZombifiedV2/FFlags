@@ -1,0 +1,7 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+  "FFlagDebugSimDefaultPrimalSolver": "True",
+  "DFIntDebugSimPrimalStiffness": "0",
+  "DFIntMaximumFreefallMoveTimeInTenths": "1000",
+  "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
+}
