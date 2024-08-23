@@ -1,0 +1,14 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+    "DFIntDebugSimPrimalWarmstartForce": "-285",
+    "DFIntDebugSimPrimalWarmstartVelocity": "750",
+    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalPreconditioner": "100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalToleranceInv": "10",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True",
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntDebugSimPrimalLineSearch": "100"
+}
