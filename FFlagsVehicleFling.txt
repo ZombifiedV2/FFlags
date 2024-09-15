@@ -1,0 +1,8 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+    "DFIntDebugSimPrimalWarmstartForce": "40",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "41"
+}
+NOTE: the other people must be in the vehicle and you must be going very fast
