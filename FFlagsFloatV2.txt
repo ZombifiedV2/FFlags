@@ -1,0 +1,5 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+"DFIntMaxAltitudePDStickHipHeightPercent": "-24"
+}
+NOTE:in r6 it dosent bounce as much as v1 both work rn
