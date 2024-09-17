@@ -1,0 +1,4 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+"DFIntNewRunningBaseGravityReductionFactorHundredth": "1500"
+}
