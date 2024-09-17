@@ -2,4 +2,4 @@ COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
 {
 "DFIntMaxAltitudePDStickHipHeightPercent": "-70"
 }
-NOTE:in r6 is also automove can be used to fling people
+NOTE:can be used to fling people
