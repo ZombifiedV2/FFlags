@@ -1,0 +1,2 @@
+require(3010581956):Fireplace("urnamehere") 
+-- ik this isnt a fflag but its cool
