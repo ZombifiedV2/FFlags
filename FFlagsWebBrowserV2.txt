@@ -1,3 +1,4 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
 {
   "FStringExperienceGuidelinesExplainedPageUrl": "https://google.com"
 }
