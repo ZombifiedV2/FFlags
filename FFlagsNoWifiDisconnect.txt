@@ -1,0 +1,5 @@
+COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
+{
+  "DFFlagDebugDisableTimeoutDisconnect": "True"
+}
+NOTE: i recommend using this with wifi-based lagswitches
