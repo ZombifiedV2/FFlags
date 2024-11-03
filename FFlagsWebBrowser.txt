@@ -5,3 +5,4 @@ COPY THIS INTO YOUR BLOXSTRAP FASTFLAGS EDITOR
     "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/",
     "FFlagEnableInGameMenuChromeABTest4": "False"
 }
+NOTE: click the 13+ icon then leanr more to open the browser
