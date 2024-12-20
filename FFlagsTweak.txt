@@ -14,3 +14,4 @@
   "DFIntSimLevitationOrthogonalVelocityReductionFactor": "0",
   "DFIntBulletContactBreakOrthogonalThresholdActivatePercent": "0"
 }
+NOTE: can be used for noclip in r6
