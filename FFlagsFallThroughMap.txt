@@ -1,0 +1,16 @@
+{
+  "DFIntBulletContactBreakOrthogonalThresholdPercent": "0",
+  "DFIntSimLevitationOrthogonalVelocityReductionFactor3": "0",
+  "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999",
+  "DFIntSolidFloorPercentForceApplication": "-1000",
+  "DFIntAssemblyExtentsExpansionStudHundredth": "-70",
+  "DFIntHipHeightClamp": "-48",
+  "DFIntUnstickForceAttackInTenths": "-3",
+  "DFIntSimBroadPhasePairCountMax": "222",
+  "DFIntNonSolidFloorPercentForceApplication": "-5000",
+  "DFIntMaxAltitudePDStickHipHeightPercent": "0",
+  "DFIntSimLevitationOrthogonalVelocityReductionFactor2": "0",
+  "DFIntMaximumFreefallMoveTimeInTenths": "1000",
+  "DFIntSimLevitationOrthogonalVelocityReductionFactor": "0",
+  "DFIntBulletContactBreakOrthogonalThresholdActivatePercent": "0"
+}
